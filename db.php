@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'ocean_db';
+$dbname = 'newd_db';
 $user = 'root';
 $pass = ''; // XAMPP 預設密碼為空
 
