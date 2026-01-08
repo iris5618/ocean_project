@@ -1,5 +1,5 @@
 <?php 
-include 'newd.php'; 
+include 'db.php'; 
 
 // 檢查是否登入，未登入者跳轉回登入頁面
 if (!isset($_SESSION['user'])) {
